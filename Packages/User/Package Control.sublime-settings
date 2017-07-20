@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Blade Snippets",
+		"Bootstrap 3 Jade Snippets",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Git",
+		"GitGutter",
+		"HTMLAttributes",
+		"Laravel Bootstrapper Snippets",
+		"LaravelCollective HTML Form Snippets",
+		"Package Control",
+		"PHP Codebeautifier",
+		"php-snippets",
+		"Phpcs",
+		"phpfmt",
+		"PhpSpec Snippets",
+		"PHPUnit",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-csslint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Terminal",
+		"Vn Ime"
+	]
+}

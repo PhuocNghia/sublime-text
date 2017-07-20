@@ -1,0 +1,31 @@
+{
+    "auto_complete": false,
+    "auto_indent": false,
+    "command": "reindent",
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 11,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "keys":
+    [
+        "ctrl+shift+i"
+    ],
+    "rulers":
+    [
+        80,
+        120
+    ],
+    "show_encoding": true,
+    "show_line_endings": true,
+    "telex": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": false
+}

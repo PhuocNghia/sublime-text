@@ -1,0 +1,23 @@
+{
+	"RemoveUseLeadingSlash": false,
+	"autocomplete": true,
+	"autoimport": true,
+	"enable_auto_align": false,
+	"format_on_save": true,
+	"ignore": "Parent",
+	"indent_with_space": 4,
+	"passes":
+	[
+		"ReindentSwitchBlocks",
+		"OrderAndRemoveUseClauses",
+		"StripSpaceWithinControlStructures",
+		"ShortArray",
+		"SpaceBetweenMethods",
+		"AutoSemicolon"
+	],
+	"psr2": true,
+	"smart_linebreak_after_curly": true,
+	"version": 4,
+	"visibility_order": true,
+	"yoda": true
+}
